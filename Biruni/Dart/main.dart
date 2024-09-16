@@ -1,1 +1,1 @@
-sdf
+void main(List<String> args) {}
