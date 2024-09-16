@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Threading.Channels;
+
+namespace W01
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("s");
+        }
+    }
+};
+
