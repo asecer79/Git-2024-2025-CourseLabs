@@ -1,6 +1,4 @@
-﻿using System.Threading.Channels;
-
-namespace W01
+﻿namespace W01
 {
     class Program
     {
