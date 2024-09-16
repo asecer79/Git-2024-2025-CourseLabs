@@ -1,0 +1,15 @@
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\bin\Debug\net8.0\W01.exe
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\bin\Debug\net8.0\W01.deps.json
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\bin\Debug\net8.0\W01.runtimeconfig.json
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\bin\Debug\net8.0\W01.dll
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\bin\Debug\net8.0\W01.pdb
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\obj\Debug\net8.0\W01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\obj\Debug\net8.0\W01.AssemblyInfoInputs.cache
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\obj\Debug\net8.0\W01.AssemblyInfo.cs
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\obj\Debug\net8.0\W01.csproj.CoreCompileInputs.cache
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\obj\Debug\net8.0\W01.sourcelink.json
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\obj\Debug\net8.0\W01.dll
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\obj\Debug\net8.0\refint\W01.dll
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\obj\Debug\net8.0\W01.pdb
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\obj\Debug\net8.0\W01.genruntimeconfig.cache
+C:\Users\emrecix\Desktop\Git-2024-2025-CourseLabs\Yildiz\AndvancedOOP\W01\obj\Debug\net8.0\ref\W01.dll
